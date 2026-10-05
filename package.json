@@ -1,0 +1,8 @@
+{
+  "name": "app-budget",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "test": "node --test" },
+  "devDependencies": { "fake-indexeddb": "^6.0.0", "jsdom": "^25.0.0" }
+}
